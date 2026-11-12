@@ -11,8 +11,8 @@ Versão com identidade visual oficial: A+, azul-marinho, azul e laranja.
 6. Adicione o domínio desejado no projeto Vercel. Envie ao responsável pelo DNS os registros exibidos pela Vercel; os valores dependem do domínio configurado.
 
 ## Status do formulário
-O formulário é uma prévia funcional de qualificação, ainda sem recebimento de leads.
-Ao enviar, informa que nenhum dado foi enviado. Não ativar campanhas antes da integração e do teste de recebimento.
+O formulário possui qualificação e validação, mas ainda está sem integração de recebimento de leads.
+Sem endpoint, exibe indisponibilidade temporária e não transmite nem registra dados. Não ativar campanhas antes da integração e do teste de recebimento.
 Talkify Analytics, webhook, GTM e Meta Pixel ainda não estão instalados.
 A configuração ATENDEMAIS_CONFIG.leadEndpoint está vazia por intenção. A próxima atualização deverá adequar o envio ao contrato real do webhook Talkify e validar CORS, resposta e evento de sucesso.
 O evento demo_request_success só é disparado após resposta HTTP bem-sucedida do endpoint configurado.

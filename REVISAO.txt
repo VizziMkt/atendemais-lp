@@ -1,0 +1,9 @@
+Revisão de 12/11/2026
+- Removida a mensagem de fase de apresentação do formulário.
+- Mensagem de indisponibilidade sem simular envio bem-sucedido.
+- Legenda do mockup simplificada, preservando a identificação de exemplo ilustrativo.
+- Texto da oferta ajustado para comunicação direta.
+- CTA Solicitar demonstração mantido conforme mapa de crescimento.
+
+ATENÇÃO INTERNA: Talkify ainda não integrado. Não ativar campanhas antes de integrar e testar o recebimento. A publicação desta revisão não habilita captura de leads.
+Substitua index.html no repositório. vercel.json permanece igual.
